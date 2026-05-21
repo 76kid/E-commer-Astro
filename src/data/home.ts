@@ -5,7 +5,7 @@ export const categories = [
         path: "/category/computers",
     },
     {
-        name: "Phones",
+        name: "Trousers",
         image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=2000&auto=format&fit=crop",
         path: "/category/phones",
     },
