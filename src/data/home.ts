@@ -1,6 +1,6 @@
 export const categories = [
     {
-        name: "Computers",
+        name: "Shirts",
         image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?q=80&w=2000&auto=format&fit=crop",
         path: "/category/computers",
     },
